@@ -45,4 +45,4 @@ Make sure you have configured your credentials for the example you have to run. 
 ```$password``` at the top of each example source file.
 
 ## I don't have any API credentials
-Log into your emailsys account. API users can be set up via Setings > API in the main navigation bar.
+Log into your emailsys account. API users can be set up via Settings > API in the main navigation bar.
