@@ -1,0 +1,15 @@
+{
+    "name": "emailsys/apiv3-examples-php",
+    "description": "A set of PHP examples for access to the emailsys API v3",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jan-Simon Winkelmann",
+            "email": "jwinkelmann@rapidsoft.de"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
