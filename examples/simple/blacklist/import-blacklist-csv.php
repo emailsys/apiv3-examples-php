@@ -20,9 +20,6 @@ $pretty = new JsonPretty();
 
 try {
 
-    $page = 1;
-    $csvFileHandle = fopen('php://stdout', 'w');
-
     // Guzzle JSON request API is documented here: http://guzzle.readthedocs.io/en/stable/quickstart.html#uploading-data
     $response = $client->post('/blacklist/import', [
         // Guzzle request headers API is documented here: http://guzzle.readthedocs.io/en/stable/request-options.html#headers
