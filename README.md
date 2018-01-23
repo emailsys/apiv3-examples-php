@@ -24,7 +24,7 @@ You can then use the scripts in the repository with the php CLI.
 ```bash
 php examples/simple/blacklist/export-blacklist-csv.php
 ``` 
-:informational_source: Please note that you will have to configure your emailsys API credentials separately for each 
+:information_source: Please note that you will have to configure your emailsys API credentials separately for each 
 example.
 
 :warning: Please make sure you use [composer](https://getcomposer.org) to install your vendor dependencies. Check the
