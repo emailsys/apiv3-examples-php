@@ -36,7 +36,7 @@ try {
         ],
         // Guzzle query request params are documented here: https://guzzle.readthedocs.io/en/stable/quickstart.html#query-string-parameters
         'query' => [
-            'send_activationmail' => 'yes'
+            'send_activationmail' => 'yes' // Warning: activation emails are _never_ sent for demo accounts.
         ],
         // Guzzle JSON request API is documented here: http://guzzle.readthedocs.io/en/stable/quickstart.html#uploading-data
         'json' => [
